@@ -3,13 +3,13 @@
 # Overview
 This Titanic Survival Dashboard is an interactive Excel-based visualization that provides insights into the survival rates, class distribution, fares, number of family members aboard, and embarkation points of passengers aboard the Titanic.
 # Features
-Survival Analysis: A bar chart displaying the number of passengers who survived vs. those who did not.<br>
-Fare Distribution: A detailed fare analysis to explore ticket price variations.<br>
-Class Distribution (Pclass): A pie chart showing passenger distribution among 1st, 2nd, and 3rd classes.<br>
-Sibling/Spouse Count (SibSp): A line chart showing the count of passengers with siblings/spouses aboard.<br>
-Parent/Children Count (Parch): A bar chart visualizing the number of passengers with parents/children aboard.<br>
-Embarkation Points: A pie chart displaying the ports where passengers boarded (Cherbourg, Queenstown, Southampton).<br>
-Filter Options: Dynamic filters for:<br>
+__Survival Analysis__: A bar chart displaying the number of passengers who survived vs. those who did not.<br>
+__Fare Distribution__: A detailed fare analysis to explore ticket price variations.<br>
+__Class Distribution (Pclass)__: A pie chart showing passenger distribution among 1st, 2nd, and 3rd classes.<br>
+__Sibling/Spouse Count (SibSp)__: A line chart showing the count of passengers with siblings/spouses aboard.<br>
+__Parent/Children Count (Parch)__: A bar chart visualizing the number of passengers with parents/children aboard.<br>
+__Embarkation Points__: A pie chart displaying the ports where passengers boarded (Cherbourg, Queenstown, Southampton).<br>
+__Filter Options__: Dynamic filters for:<br>
 Survival Status (0 = Did not survive, 1 = Survived)<br>
 Passenger Class (1st, 2nd, 3rd)<br>
 Number of Parents/Children Aboard<br>
@@ -25,4 +25,4 @@ Higher fares were associated with higher survival rates.<br>
 Females had a higher survival rate compared to males.<br>
 Most passengers embarked from Southampton (S).<br>
 # Credits
-Dataset sourced from the famous Titanic Dataset.
+Dataset sourced from the famous __Titanic Dataset__.
