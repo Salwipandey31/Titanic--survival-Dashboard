@@ -3,7 +3,7 @@
 # Overview
 This Titanic Survival Dashboard is an interactive Excel-based visualization that provides insights into the survival rates, class distribution, fares, number of family members aboard, and embarkation points of passengers aboard the Titanic.
 # Features
-Survival Analysis: A bar chart displaying the number of passengers who survived vs. those who did not.
+Survival Analysis: A bar chart displaying the number of passengers who survived vs. those who did not./n
 Fare Distribution: A detailed fare analysis to explore ticket price variations.
 Class Distribution (Pclass): A pie chart showing passenger distribution among 1st, 2nd, and 3rd classes.
 Sibling/Spouse Count (SibSp): A line chart showing the count of passengers with siblings/spouses aboard.
